@@ -6,7 +6,7 @@ This script converts TIF images with old style JPEG compression to JPG format. I
 
 To use this script, simply run it from the command line with the following arguments:
 
-python script.py tif_file_path jpg_destination_path
+python converter.py tif_file_path jpg_destination_path
 
 ## Dependencies
 
